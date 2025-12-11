@@ -54,7 +54,7 @@ public class Cimb {
 }
 
 # Expected Output Requirements
-<img width="822" height="756" alt="image" src="https://github.com/user-attachments/assets/283c13fd-7fea-49c0-9a5b-e2eac391ebbc" />
+<img src="https://github.com/albeetter/decoratorPattern/blob/master/ExpectedOutput.png" alt="expectedoutput">
 
 # Description of the following methods
 showAccountType()
@@ -90,4 +90,4 @@ showInfo()
 Returns details of account number, account name, and balance.
 
 # UML Diagram
-<img width="892" height="551" alt="image" src="https://github.com/user-attachments/assets/09e0f6f9-f12e-4d58-8695-50f316a091b4" />
+<img src="https://github.com/albeetter/decoratorPattern/blob/master/DecoratorDiagram.png" alt="classdiagram">
